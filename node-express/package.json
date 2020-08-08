@@ -1,5 +1,6 @@
 {
   "name": "node-express",
+  "type": "module",
   "version": "1.0.0",
   "description": "Node Express Examples",
   "main": "server.js",
